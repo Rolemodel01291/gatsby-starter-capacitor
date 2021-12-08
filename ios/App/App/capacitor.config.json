@@ -1,0 +1,11 @@
+{
+	"appId": "com.example.gatsbycapacitor",
+	"appName": "gatsby-starter-capacitor",
+	"bundledWebRuntime": false,
+	"webDir": "public",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	}
+}
